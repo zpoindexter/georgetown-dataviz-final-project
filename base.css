@@ -46,7 +46,8 @@ h2.subhead {
   font-family: Georgia, Times, Serif;
   line-height: 1.6em;
   color: #4a4a4a;
-  margin: 0px auto 50px auto;
+  margin: 0px auto 30px auto;
+  margin-bottom: 30px; /* between paragraphs */
 }
 
 .chart.placeholder {
