@@ -34,7 +34,7 @@ h2.subhead {
 
 .story-body .credit {
   max-width: 600px;
-  margin: 10px auto 20px auto;
+  margin: 10px auto 10px auto;
   color: #666;
   font-size: 13px;
   font-family: Helvetica, Arial, Sans-Serif;
@@ -46,11 +46,11 @@ h2.subhead {
   font-family: Georgia, Times, Serif;
   line-height: 1.6em;
   color: #4a4a4a;
-  margin: 0px auto 20px auto;
+  margin: 0px auto 100px auto;
 }
 
 .chart.placeholder {
-  height: 400px;
+  height: 600px;
   background: #eee;
   position: relative;
 }
@@ -64,4 +64,9 @@ h2.subhead {
   color: #999;
   font-size: 20px;
   font-family: Helvetica, Arial, Sans-Serif;
+}
+
+.chart img{
+  width: 600px;
+  height: 600px;
 }
