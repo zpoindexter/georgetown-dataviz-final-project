@@ -5,7 +5,7 @@ html, body {
 
 .headline {
   max-width: 600px;
-  margin: 30px auto 20px auto;
+  margin: 0px auto 0px auto;
   font-family: Helvetica, Arial, Sans-Serif;
   color: #222;
   font-size: 48px;
@@ -26,7 +26,7 @@ h2.subhead {
 
 .story-body  .byline {
   max-width: 600px;
-  margin: 0px auto 20px auto;
+  margin: 0px auto 0px auto;
   color: #222;
   font-size: 14px;
   font-family: Helvetica, Arial, Sans-Serif;
