@@ -14,7 +14,7 @@ html, body {
 
 .subhead {
   max-width: 600px;
-  margin: 0px auto 20px auto;
+  margin: 0px auto 0px auto;
   color: #222;
   font-size: 24px;
   font-family: Helvetica, Arial, Sans-Serif;
@@ -34,7 +34,7 @@ h2.subhead {
 
 .story-body .credit {
   max-width: 600px;
-  margin: 10px auto 10px auto;
+  margin: 0px auto 0px auto;
   color: #666;
   font-size: 13px;
   font-family: Helvetica, Arial, Sans-Serif;
@@ -46,7 +46,7 @@ h2.subhead {
   font-family: Georgia, Times, Serif;
   line-height: 1.6em;
   color: #4a4a4a;
-  margin: 0px auto 30px auto;
+  margin: 0px auto 0px auto;
   margin-bottom: 30px; /* between paragraphs */
 }
 
