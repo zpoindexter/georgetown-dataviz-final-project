@@ -3,12 +3,13 @@ html, body {
   padding: 0;
 }
 
-.headline {
+.header {
   max-width: 600px;
   margin: 0px auto 0px auto;
   font-family: Helvetica, Arial, Sans-Serif;
   color: #222;
   font-size: 48px;
+  text-align: center;
 
 }
 
