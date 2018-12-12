@@ -68,9 +68,7 @@ h2.subhead {
   font-family: Helvetica, Arial, Sans-Serif;
 }
 
-.img p {
-  width: 600px;
-  height: 600px;
-  margin: 0px;
-  padding: 0px;
+.chart {
+  max-width: 980px;
+  margin: 20px auto;
 }
