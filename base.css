@@ -5,7 +5,7 @@ html, body {
 
 .header {
   max-width: 600px;
-  margin: 0px auto 0px auto;
+  margin: 20px auto 20px auto;
   font-family: Helvetica, Arial, Sans-Serif;
   color: #222;
   font-size: 48px;
@@ -15,7 +15,7 @@ html, body {
 
 .subhead {
   max-width: 600px;
-  margin: 0px auto 0px auto;
+  margin: 20px auto 20px auto;
   color: #222;
   font-size: 24px;
   font-family: Helvetica, Arial, Sans-Serif;
@@ -27,7 +27,7 @@ h2.subhead {
 
 .story-body  .byline {
   max-width: 600px;
-  margin: 0px auto 0px auto;
+  margin: 20px auto 20px auto;
   color: #222;
   font-size: 14px;
   font-family: Helvetica, Arial, Sans-Serif;
@@ -35,7 +35,7 @@ h2.subhead {
 
 .story-body .credit {
   max-width: 600px;
-  margin: 0px auto 0px auto;
+  margin: 20px auto 20px auto;
   color: #666;
   font-size: 13px;
   font-family: Helvetica, Arial, Sans-Serif;
@@ -47,7 +47,7 @@ h2.subhead {
   font-family: Georgia, Times, Serif;
   line-height: 1.6em;
   color: #4a4a4a;
-  margin: 0px auto 0px auto;
+  margin: 20px auto 20px auto;
   margin-bottom: 30px; /* between paragraphs */
 }
 
@@ -71,4 +71,5 @@ h2.subhead {
 .chart {
   max-width: 980px;
   margin: 20px auto;
+  text-align: center;
 }
