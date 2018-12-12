@@ -77,3 +77,7 @@ h2.subhead {
 .chart img {
   width: 100%;
 }
+
+#chart1 {
+max-width: 500px;
+}
